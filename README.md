@@ -41,7 +41,6 @@ Experienced **Software Developer** with 4+ years of success in designing scalabl
 
 ---
 
----
 
 ### 📈 Projects & Contributions
 - **🔍 Financial Fraud Detection System**  
